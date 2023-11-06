@@ -38,8 +38,8 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ## 📈 Stats
 <p align="center">
  <a href="https://github.com/AmaanSayyed">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshshimpi-55&theme=tokyonight" />
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshshimpi-55&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaanSayyed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSayyed&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaanSayyed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
