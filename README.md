@@ -44,5 +44,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 </a>
 </p>
 
+---
+
 
 [![@amaan's Holopin board](https://holopin.io/api/user/board?user=amaans)](https://holopin.io/@amaans)
