@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 I am Amaan Sayyed, currently in the Final year of my BE in Information technlogy Engineering from [MET INSTITUTE OF ENGINEERING(https://metbhujbalknowledgecity.ac.in/metengg/). I am a tech savant
 and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
 
-[![Linkedin Badge](https://img.shields.io/badge/-hiteshshimpi55-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AmaanSayyed/)
-[![Gmail Badge](https://img.shields.io/badge/-shimpihitesh2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sayamaan55@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AmaanSayyed-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AmaanSayyed/)
+[![Gmail Badge](https://img.shields.io/badge/-sayamaan55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sayamaan55@gmail.com)
 
 ## ⚡Technologies
 
@@ -37,8 +37,8 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 
 ## 📈 Stats
 <p align="center">
- <a href="https://github.com/hiteshshimpi-55">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiteshshimpi-55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+ <a href="https://github.com/AmaanSayyed">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshshimpi-55&theme=tokyonight" />
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshshimpi-55&layout=compact&langs_count=8&theme=algolia"/>
 </a>
