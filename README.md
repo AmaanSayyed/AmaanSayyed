@@ -43,4 +43,4 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaanSayyed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-[![An image of @amaans's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amaans)](https://holopin.io/@amaans)
+[![An image of @amaans's Holopin badges, which is a link to view their full Holopin profile] (https://holopin.me/amaans)] (https://holopin.io/@amaans)
