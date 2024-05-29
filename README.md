@@ -31,7 +31,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ## 🔭 Libraries & Framework :
 
 ![Laravel](https://img.shields.io/badge/Laravel-563D7C?style=flat-square&logo=laravel&logoColor=white)
-![VueJs](https://img.shields.io/badge/-Vue_JS-563D7C?style=flat-square&logo=vuejs)
+![VueJs](https://img.shields.io/badge/-Vue_JS-563D7C?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 
