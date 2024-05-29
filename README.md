@@ -22,7 +22,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ## ⚡Technologies
 
 ### Language :
-[![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)]
+![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
