@@ -23,7 +23,7 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 
 ### Language :
 ![Php](https://img.shields.io/badge/-php-green?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -34,8 +34,8 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ![VueJs](https://img.shields.io/badge/-Vue_JS-563D7C?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailWind-black?style=flat-square&logo=Tailwindcss)
-![Livewire](https://img.shields.io/badge/-Livewire-pink?style=flat-square&logo=Livewire)
-![AlpineJs](https://img.shields.io/badge/-Alpinejs-green?style=flat-square&logo=Alpinejs)
+![Livewire](https://img.shields.io/badge/-Livewire-purple?style=flat-square&logo=Livewire)
+![AlpineJs](https://img.shields.io/badge/-AlpineJs-green?style=flat-square&logo=AlpineJs)
 
 ## 📈 Stats
 <p align="center">
