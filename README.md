@@ -34,7 +34,8 @@ and an open-source enthusiast. I am always open to collabrating on projects and 
 ![VueJs](https://img.shields.io/badge/-Vue_JS-563D7C?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailWind-black?style=flat-square&logo=Tailwindcss)
-![Livewire](https://img.shields.io/badge/-Livewire-black?style=flat-square&logo=Livewire)
+![Livewire](https://img.shields.io/badge/-Livewire-pink?style=flat-square&logo=Livewire)
+![AlpineJs](https://img.shields.io/badge/-AlpineJs-green?style=flat-square&logo=AlpineJs)
 
 ## 📈 Stats
 <p align="center">
