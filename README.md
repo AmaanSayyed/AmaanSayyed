@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I am Amaan Sayyed, currently in the Final year of my BE in Information technlogy Engineering from [MET INSTITUTE OF ENGINEERING(https://metbhujbalknowledgecity.ac.in/metengg/). I am a tech savant
 and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
 
-[![Linkedin Badge](https://img.shields.io/badge/-AmaanSayyed-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AmaanSayyed/)
+[![Linkedin Badge](https://img.shields.io/badge/-AmaanSayyed-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/-sayamaan55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sayamaan55@gmail.com)
 
 ## ⚡Technologies
